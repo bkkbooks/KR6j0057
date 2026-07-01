@@ -1,0 +1,182 @@
+canonical_identifier: bkk:krp/KR6j0057/v1
+canonical_location: https://kanripo.org/bkk/KR6j0057/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 一切如來大祕密王未曾有最上微妙大曼拏羅經
+  identifiers:
+    alt_id:
+    - T18n0889
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0889.xml
+    old_id: T18n0889
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0057_000.yaml, hash: 'sha256:baed393a597e10e59e138871210882566afdfb09475b48f7047c5156cf2662fc'}
+  - {seq: 1, filename: KR6j0057_001.yaml, hash: 'sha256:29fc1d80cadcbdd3342c2188fc3182e6289030bdc5f9ea56cfdcd9f3aa9c46dd'}
+  - {seq: 2, filename: KR6j0057_002.yaml, hash: 'sha256:9cfa4690ddb9121d810956e98ec274286a1242e5ea3b1e17c3ce2370e72762ee'}
+  - {seq: 3, filename: KR6j0057_003.yaml, hash: 'sha256:05c50c6a2c3997731bad49c85526157be23e04971fc7b346df3396b9b2071f06'}
+  - {seq: 4, filename: KR6j0057_004.yaml, hash: 'sha256:67cde62816d7ba376e1d215da60ac47e4a9cd6a6a0605f3dae63bed2c9bd0333'}
+  - {seq: 5, filename: KR6j0057_005.yaml, hash: 'sha256:1c21d0c76a50b550752ae5c1d26ce627596ae030861103ed1dabc9c2318edb74'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0057_001.markers.yaml, hash: 'sha256:ef583d997bcc7bceac39f0c0c985e178a6f4e5c6563f453c59b92981d9a7b6df'}
+  - {seq: 2, role: markers, filename: assets/KR6j0057_002.markers.yaml, hash: 'sha256:abb5a6df3cb89addafef900bfc295ddf1b5ae00aa9afff547a7e090bc3c8e1e4'}
+  - {seq: 3, role: markers, filename: assets/KR6j0057_003.markers.yaml, hash: 'sha256:3e00ac4968c65cf3b6c13aaa3ba0dc83d7a5906a7bc45ab64534dc03c6eee06e'}
+  - {seq: 4, role: markers, filename: assets/KR6j0057_004.markers.yaml, hash: 'sha256:a64db8986d238d1b586551473ee86f2f20db4305e4104c220c608c0e0a35784a'}
+  - {seq: 5, role: markers, filename: assets/KR6j0057_005.markers.yaml, hash: 'sha256:12aa21f06426352ef192e65ac20cc38139c0aee7a40e81722669bd00750115a5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0057_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5675
+  label: '一切如來大祕密王未曾有最上
+
+    微妙大曼拏羅經卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0057_T_001-mulu-1
+    span:
+    - body
+    - 26
+    - 26
+  label: 1 相應行曼拏羅儀則品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0057_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5329
+  label: '一切如來大祕密王未曾有最上
+
+    微妙大曼拏羅經卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0057_T_002-mulu-1
+    span:
+    - body
+    - 26
+    - 26
+  label: 2 灌頂品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0057_T_002-mulu-2
+    span:
+    - body
+    - 1822
+    - 1822
+  label: 3 阿闍梨品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0057_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 3358
+  label: '一切如來大祕密王未曾有最上
+
+    微妙大曼拏羅經卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0057_T_003-mulu-1
+    span:
+    - body
+    - 26
+    - 26
+  label: 4 護摩法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0057_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 3130
+  label: '一切如來大祕密王未曾有最上
+
+    微妙大曼拏羅經卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0057_T_004-mulu-1
+    span:
+    - body
+    - 26
+    - 26
+  label: 5 先法攝受弟子品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0057_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6003
+  label: '一切如來大祕密王未曾有最上
+
+    微妙大曼拏羅經卷第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0057_T_005-mulu-1
+    span:
+    - body
+    - 26
+    - 26
+  label: 6 鈴杵相分出生儀則品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0057_T_005-mulu-2
+    span:
+    - body
+    - 3684
+    - 3684
+  label: 7 造塔功德品
+  type: mulu
+  level: 1
+hash: sha256:3a8944d9f51d1aab5ef102eb7ee38e520cc03efd3f38d7fc19b5cc38dc6d66df
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

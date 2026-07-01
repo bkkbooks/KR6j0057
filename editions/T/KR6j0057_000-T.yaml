@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0057/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 一切如來大祕密王未曾有最上微妙大曼拏羅經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0889.xml
+    old_id: T18n0889
+hash: sha256:baed393a597e10e59e138871210882566afdfb09475b48f7047c5156cf2662fc
